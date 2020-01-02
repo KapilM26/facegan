@@ -1,1 +1,1 @@
-DCGAN implementation to be trained on CelebA
+DCGAN implementation trained on CelebA dataset
